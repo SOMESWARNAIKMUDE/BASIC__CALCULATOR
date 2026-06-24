@@ -18,3 +18,5 @@ A responsive calculator built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+## Author
+SOMESWAR NAIK MUDE
