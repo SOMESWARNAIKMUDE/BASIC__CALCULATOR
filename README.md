@@ -1,2 +1,20 @@
-# BASIC__CALCULATOR
-A basic calculator app is a simple, user-friendly digital tool designed to perform everyday mathematical operations. It features an intuitive interface with a number pad and simple function keys, making it ideal for quick daily computations, budgeting, and solving basic math problems without clutter.
+# Basic Calculator
+
+A responsive calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Decimal numbers
+- Clear button
+
+## Screenshot
+
+![Calculator Screenshot](images/calculator.png)
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
