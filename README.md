@@ -12,7 +12,7 @@ A responsive calculator built using HTML, CSS, and JavaScript.
 
 ## Screenshot
 
-![Calculator Screenshot](images/calculator.png)
+![Calculator Screenshot](calculator.png)
 
 ## Technologies Used
 - HTML
